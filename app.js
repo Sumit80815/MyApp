@@ -1,0 +1,1 @@
+console.lng('Hello');
